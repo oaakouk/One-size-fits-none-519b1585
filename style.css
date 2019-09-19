@@ -1,0 +1,19 @@
+h1 {
+    color: indianred; font-size: 1,2em
+}
+h2 {
+	color: lightsalmon; font-size: smaller;
+}
+li {
+	color: rebeccapurple; font-size: 75%
+}
+
+title{ 
+	color: green;
+ }
+ background-color{
+ 	color: indigo; 
+ }
+img{
+	width: 150px;
+}
